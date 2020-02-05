@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/mern-exercise/static/css/main.d1b05096.chunk.css",
-    "main.js": "/mern-exercise/static/js/main.b9c7450c.chunk.js",
-    "main.js.map": "/mern-exercise/static/js/main.b9c7450c.chunk.js.map",
+    "main.css": "/mern-exercise/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mern-exercise/static/js/main.89d08184.chunk.js",
+    "main.js.map": "/mern-exercise/static/js/main.89d08184.chunk.js.map",
     "runtime-main.js": "/mern-exercise/static/js/runtime-main.136e4416.js",
     "runtime-main.js.map": "/mern-exercise/static/js/runtime-main.136e4416.js.map",
-    "static/js/2.2b44f9ba.chunk.js": "/mern-exercise/static/js/2.2b44f9ba.chunk.js",
-    "static/js/2.2b44f9ba.chunk.js.map": "/mern-exercise/static/js/2.2b44f9ba.chunk.js.map",
+    "static/css/2.821458bd.chunk.css": "/mern-exercise/static/css/2.821458bd.chunk.css",
+    "static/js/2.3f30aa83.chunk.js": "/mern-exercise/static/js/2.3f30aa83.chunk.js",
+    "static/js/2.3f30aa83.chunk.js.map": "/mern-exercise/static/js/2.3f30aa83.chunk.js.map",
     "index.html": "/mern-exercise/index.html",
-    "precache-manifest.c9edcc2ac85139d63102a0ecf872954c.js": "/mern-exercise/precache-manifest.c9edcc2ac85139d63102a0ecf872954c.js",
+    "precache-manifest.78b84db693228e23ff91daf46a15bfac.js": "/mern-exercise/precache-manifest.78b84db693228e23ff91daf46a15bfac.js",
     "service-worker.js": "/mern-exercise/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/mern-exercise/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2b44f9ba.chunk.js.LICENSE": "/mern-exercise/static/js/2.2b44f9ba.chunk.js.LICENSE",
-    "static/media/logo.svg": "/mern-exercise/static/media/logo.5d5d9eef.svg"
+    "static/css/2.821458bd.chunk.css.map": "/mern-exercise/static/css/2.821458bd.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mern-exercise/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3f30aa83.chunk.js.LICENSE": "/mern-exercise/static/js/2.3f30aa83.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.136e4416.js",
-    "static/js/2.2b44f9ba.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b9c7450c.chunk.js"
+    "static/css/2.821458bd.chunk.css",
+    "static/js/2.3f30aa83.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.89d08184.chunk.js"
   ]
 }
